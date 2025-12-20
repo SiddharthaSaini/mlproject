@@ -1,5 +1,7 @@
 # Virtual environment
 venv/
+catboost_info/
+artifacts/
 
 # Packaging metadata
 *.egg-info/
@@ -10,3 +12,6 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+
+
